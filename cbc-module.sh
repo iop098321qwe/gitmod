@@ -14,3 +14,5 @@ alias gs='git status'
 alias gsw='git switch'
 alias gswm='git switch main'
 alias gswt='git switch test'
+
+alias balls='echo "my balls are big and beautiful"'
