@@ -2,3 +2,4 @@
 
 alias gpfom='git push --follow-tags origin main'
 alias gs='git status'
+alias ghb='gh browse'
