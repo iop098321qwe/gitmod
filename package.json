@@ -1,0 +1,26 @@
+{
+  "name": "gitmod",
+  "version": "0.0.2",
+  "description": "Git convenience aliases for quick status and push workflows. Keeps common commands short for everyday use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iop098321qwe/gitmod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iop098321qwe/gitmod/issues"
+  },
+  "homepage": "https://github.com/iop098321qwe/gitmod#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
+    "husky": "^9.1.7"
+  }
+}
